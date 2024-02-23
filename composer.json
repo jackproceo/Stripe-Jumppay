@@ -1,5 +1,5 @@
 {
-    "name": "jackceopro/stripeJump Pay",
+    "name": "jackceopro/stripeJumpPay",
     "description": "stripe JumpPay program",
     "type": "framework",
     "keywords": ["paypal","jumppay","payment"],
