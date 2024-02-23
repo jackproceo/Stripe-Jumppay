@@ -1,6 +1,6 @@
 {
-    "name": "jackceopro/paypalJumlPay",
-    "description": "paypalJumlPay program",
+    "name": "jackceopro/stripeJump Pay",
+    "description": "stripe JumpPay program",
     "type": "framework",
     "keywords": ["paypal","jumppay","payment"],
     "homepage": "http://thinkphp.cn/",
